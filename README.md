@@ -23,3 +23,17 @@ Aplikasi latihan untuk GIT
 Nama panggilan / akun GitHub: Derren
 ## Status
 Proyek awal perkuliahan.
+
+## Tujuan
+Aplikasi ini bertujuan untuk memudahkan masyarakat memesan layanan transportasi dan makanan secara online.
+
+## Rencana Fitur
+1. GoRide/GoCar (Transportasi)
+2. GoFood (Pesan antar makanan)
+3. GoPay (Pembayaran digital)
+
+## Cara Menjalankan
+Buka terminal pada folder proyek ini, lalu jalankan perintah:
+flutter pub get
+flutter run
+*(Catatan: Pastikan SDK Flutter sudah terpasang dan emulator/perangkat sudah siap).*
